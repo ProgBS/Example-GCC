@@ -1,0 +1,7 @@
+{
+    "imports" : {
+
+        "Project" : "https://deno.land/x/project@1.0.0/mod.ts" ,
+        "Paths" : "./Paths.js"
+    }
+}
